@@ -23,4 +23,5 @@ I'm Abdulaziz, a 16 years old Python Developer.
 [![Abdulaziz's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdulazizSherzodjanov&show_icons=true&theme=tokyonight)](https://github.com/AbdulazizSherzodjanov/github-readme-stats)
 
 ## Contact
-- [AbdulazizSherzodjanov](https://t.me/PyCoder_off1cial) on Telegram
+- [Telegram](https://t.me/PyCoder_off1cial)
+- [Github](https://t.me/AbdulazizSherzodjanov)
