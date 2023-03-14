@@ -24,4 +24,4 @@ I'm Abdulaziz, a 16 years old Python Developer.
 
 ## Contact
 - [Telegram](https://t.me/PyCoder_off1cial)
-- [Github](https://github/AbdulazizSherzodjanov)
+- [Github](https://github.com/AbdulazizSherzodjanov)
