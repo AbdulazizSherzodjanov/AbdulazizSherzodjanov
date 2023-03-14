@@ -5,7 +5,7 @@ I'm Abdulaziz, a 16 years old Python Developer.
 - ⚙️ Tkinter , Aiogram
 - 👁️ Django , Flask
 - 💽 Sqlite
-## 👨‍💻
+## 👨‍💻 Technologies
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" />
@@ -15,6 +15,8 @@ I'm Abdulaziz, a 16 years old Python Developer.
 <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
 <img src="https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white" />
+
+
 [![Abdulaziz's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdulazizSherzodjanov&show_icons=true&theme=tokyonight)](https://github.com/AbdulazizSherzodjanov/github-readme-stats)
 
 ## Contact
