@@ -5,7 +5,8 @@ I'm Abdulaziz, a 16 years old Python Developer.
 - ⚙️ Tkinter , Aiogram
 - 👁️ Django , Flask
 - 💽 Sqlite
-https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green
+- <img src="{https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green}" />
+
 ## Contact
 - [AbdulazizSherzodjanov](https://t.me/PyCoder_off1cial) on Telegram
 
