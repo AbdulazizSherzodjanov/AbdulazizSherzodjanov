@@ -1,4 +1,4 @@
-## Hey! 👋
+## Hey! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 ## 👨‍💻 About Me
 I'm Abdulaziz, a 16 years old Python Developer.
 ## Skills
