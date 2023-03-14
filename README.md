@@ -19,9 +19,8 @@ I'm Abdulaziz, a 16 years old Python Developer.
 <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
 <img src="https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white" />
 
-
-[![Abdulaziz's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdulazizSherzodjanov&show_icons=true&theme=tokyonight)](https://github.com/AbdulazizSherzodjanov/github-readme-stats)
-
-## Contact
+## Contact 📞
 - [Telegram](https://t.me/PyCoder_off1cial)
 - [Github](https://github.com/AbdulazizSherzodjanov)
+
+[![Abdulaziz's GitHub stats ⚡](https://github-readme-stats.vercel.app/api?username=AbdulazizSherzodjanov&show_icons=true&theme=tokyonight)](https://github.com/AbdulazizSherzodjanov/github-readme-stats)
