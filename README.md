@@ -5,7 +5,8 @@ I'm Abdulaziz, a 16 years old Python Developer.
 - ⚙️ Tkinter , Aiogram
 - 👁️ Django , Flask
 - 💽 Sqlite
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdulazizSherzodjanov)](https://github.com/AbdulazizSherzodjanov/github-readme-stats)
+
 ## Contact
 - [AbdulazizSherzodjanov](https://t.me/PyCoder_off1cial) on Telegram
 
+[![Abdulaziz's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdulazizSherzodjanov)](https://github.com/AbdulazizSherzodjanov/github-readme-stats)
