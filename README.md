@@ -9,4 +9,4 @@ I'm Abdulaziz, a 16 years old Python Developer.
 ## Contact
 - [AbdulazizSherzodjanov](https://t.me/PyCoder_off1cial) on Telegram
 
-[![Abdulaziz's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdulazizSherzodjanov)](https://github.com/AbdulazizSherzodjanov/github-readme-stats)
+[![Abdulaziz's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdulazizSherzodjanov&show_icons=true&theme=radical)](https://github.com/AbdulazizSherzodjanov/github-readme-stats)
