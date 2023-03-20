@@ -26,4 +26,4 @@ I'm Abdulaziz, a 16 years old Python Developer.
 [![Abdulaziz's GitHub stats ⚡](https://github-readme-stats.vercel.app/api?username=AbdulazizSherzodjanov&show_icons=true&theme=tokyonight)](https://github.com/AbdulazizSherzodjanov/github-readme-stats)
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AbdulazizSherzodjanov&theme=onestar&row=1&margin-w=15&margin-h=15&no-bg=true" alt="AbdulazizSherzodjanov" /></a> </p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username={AbdulazizSherzodjanov}&theme={dark}"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulazizSherzodjanov&theme=dark"/>
