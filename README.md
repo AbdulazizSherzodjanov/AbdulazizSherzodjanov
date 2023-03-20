@@ -1,4 +1,4 @@
-## Hey! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+## Hello ! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 ## 👨‍💻 About Me
 I'm Abdulaziz, a 16 years old Python Developer.
 ## 👨‍💻 Technologies
@@ -13,6 +13,7 @@ I'm Abdulaziz, a 16 years old Python Developer.
 <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
 <img src="https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white" />
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
 ## Contact 📞
 - [Telegram](https://t.me/PyCoder_off1cial)
 - [Github](https://github.com/AbdulazizSherzodjanov)
