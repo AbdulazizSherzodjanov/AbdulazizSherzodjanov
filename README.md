@@ -1,6 +1,6 @@
 ## Hello ! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 ## 👨‍💻 About Me
-I'm Abdulaziz, a 16 years old Python Developer.
+I'm Abdulaziz, 16 years old a Python Developer from Uzbekistan 
 ## 👨‍💻 Technologies
 ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -19,7 +19,6 @@ I'm Abdulaziz, a 16 years old Python Developer.
 - [Github](https://github.com/AbdulazizSherzodjanov)
 
 [![Abdulaziz's GitHub stats ⚡](https://github-readme-stats.vercel.app/api?username=AbdulazizSherzodjanov&show_icons=true&theme=tokyonight)](https://github.com/AbdulazizSherzodjanov/github-readme-stats)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulazizSherzodjanov&theme=dark"/>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AbdulazizSherzodjanov&theme=onestar&row=1&margin-w=15&margin-h=15&no-bg=true" alt="AbdulazizSherzodjanov" /></a> </p>
 
 
