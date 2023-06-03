@@ -15,7 +15,5 @@ I'm Abdulaziz, 16 years old a Python Developer from Uzbekistan
 - [Instagram](https://www.instagram.com/abdulaziz__programmer)
 - [LinkedIn](https://www.linkedin.com/in/abdulaziz-sherzodjanov/)
 
-[![Abdulaziz's GitHub stats ⚡](https://github-readme-stats.vercel.app/api?username=AbdulazizSherzodjanov&show_icons=true&theme=tokyonight)](https://github.com/AbdulazizSherzodjanov/github-readme-stats)
-
 
 
