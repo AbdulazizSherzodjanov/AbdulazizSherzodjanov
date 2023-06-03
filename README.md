@@ -10,7 +10,6 @@ I'm Abdulaziz, 16 years old a Python Developer from Uzbekistan
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
 ## Contact 📞
 - [Telegram](https://t.me/PyCoder_off1cial)
-- [Github](https://github.com/AbdulazizSherzodjanov)
 - [Instagram](https://www.instagram.com/abdulaziz__programmer)
 - [LinkedIn](https://www.linkedin.com/in/abdulaziz-sherzodjanov/)
 
