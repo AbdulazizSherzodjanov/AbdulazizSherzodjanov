@@ -1,6 +1,6 @@
-## Hello ! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+## Hi ! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 ## 👨‍💻 About Me
-I'm Abdulaziz, 16 years old a Python Developer from Uzbekistan 
+I'm Abdulaziz, 16 years old a Back end developer from Uzbekistan 
 ## 👨‍💻 Technologies
 ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
