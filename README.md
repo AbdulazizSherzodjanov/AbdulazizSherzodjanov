@@ -9,7 +9,6 @@ I'm Abdulaziz, 16 years old a Back end developer from Uzbekistan
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" />
 ![image](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
-<a href="https://app.daily.dev/abdulaziz_py"><img src="https://api.daily.dev/devcards/055138a7fb9e4a76a615b9874ae5216f.png?r=hzk" width="400" alt="AbdulazizSherzodjanov's Dev Card"/></a>
 ## Contact 📞
 <a href="https://t.me/PyCoder_off1cial">Telegram</a><br>
 <a href="https://www.linkedin.com/in/abdulaziz-sherzodjanov">Linkedin</a>
