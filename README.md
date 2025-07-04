@@ -11,8 +11,3 @@ I'm Abdulaziz, 18 years old a Back end developer from Uzbekistan
 ## Contact 📞
 <a href="https://t.me/Sherzodjanov_Abdulaziz">Telegram</a><br>
 <a href="https://www.linkedin.com/in/abdulaziz-sherzodjanov">Linkedin</a>
-
-
-
-![image](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAbdulazizSherzodjanov1212%2Fhit-counter)<br>
-![image](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulazizSherzodjanov&theme=tokyonight)
