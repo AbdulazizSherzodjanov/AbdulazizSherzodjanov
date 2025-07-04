@@ -1,5 +1,5 @@
 ## Hi ! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
-I'm Abdulaziz, 17 years old a Back end developer from Uzbekistan 
+I'm Abdulaziz, 18 years old a Back end developer from Uzbekistan 
 ## 👨‍💻 Technologies
 ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -9,7 +9,7 @@ I'm Abdulaziz, 17 years old a Back end developer from Uzbekistan
 ![image](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
 ## Contact 📞
-<a href="https://t.me/PyCoder_off1cial">Telegram</a><br>
+<a href="https://t.me/Sherzodjanov_Abdulaziz">Telegram</a><br>
 <a href="https://www.linkedin.com/in/abdulaziz-sherzodjanov">Linkedin</a>
 
 
