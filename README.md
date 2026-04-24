@@ -10,4 +10,4 @@ I'm Abdulaziz, 19 years old a Back end developer from Uzbekistan
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
 ## Contact 📞
 <a href="https://t.me/Sherzodjanov_Abdulaziz">Telegram</a><br>
-<a href="www.linkedin.com/in/abdulaziz-sherzodjonov-832b183ba">Linkedin</a>
+<a href="https://www.linkedin.com/in/abdulaziz-sherzodjonov-832b183ba">Linkedin</a>
